@@ -1,4 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=hasansirac&color=blue" alt="profile views"/>
 # 👋 Hi, I'm Hasan Siraç Özbeyler
+
+🚀 Backend Developer | AI + Healthcare Systems
 
 🎓 Final Year Computer Engineering Student  
 💻 Backend Developer (.NET)  
@@ -38,6 +41,8 @@ My goal is to become a strong backend engineer who can design scalable and intel
 ---
 
 ## 🔬 Featured Project — AI Healthcare System
+
+👉 Currently designing the system architecture and data flow for real-world usage.
 
 ### 🧬 Cancer Patient Monitoring & Risk Analysis System
 
@@ -96,6 +101,7 @@ During my internship, I developed multiple systems:
 
 ---
 
+
 ## 📫 Contact
 
 - GitHub: https://github.com/hasansirac
@@ -105,3 +111,10 @@ During my internship, I developed multiple systems:
 ## ⚡ Vision
 
 To build intelligent systems that combine backend engineering with AI.
+
+
+## 📈 Currently Improving
+
+- Backend architecture skills
+- API performance optimization
+- Real-world system design
