@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=hasansirac&color=blue" alt="profile views"/>
 # 👋 Hi, I'm Hasan Siraç Özbeyler
 
 🚀 Backend Developer | AI + Healthcare Systems
